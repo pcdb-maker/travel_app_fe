@@ -19,32 +19,32 @@ export const NAV_LINKS = [
   // FEATURES SECTION
   export const FEATURES = [
     {
-      title: 'Real maps can be offline',
+      title: 'Lorem Ipsum',
       icon: '/map.svg',
       variant: 'green',
       description:
-        'We provide a solution for you to be able to use our application when climbing, yes offline maps you can use at any time there is no signal at the location',
+        'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat',
     },
     {
-      title: 'Set an adventure schedule',
+      title: 'Lorem Ipsum',
       icon: '/calendar.svg',
       variant: 'green',
       description:
-        "Schedule an adventure with friends. On holidays, there are many interesting offers from Hilink. That way, there's no more discussion",
+      'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat',
     },
     {
-      title: 'Technology using augment reality',
+      title: 'Lorem Ipsum',
       icon: '/tech.svg',
       variant: 'green',
       description:
-        'Technology uses augmented reality as a guide to your hiking trail in the forest to the top of the mountain. Already supported by the latest technology without an internet connection',
+      'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat',
     },
     {
-      title: 'Many new locations every month',
+      title: 'Lorem Ipsum',
       icon: '/location.svg',
       variant: 'orange',
       description:
-        'Lots of new locations every month, because we have a worldwide community of climbers who share their best experiences with climbing',
+      'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat',
     },
   ];
   
@@ -63,15 +63,15 @@ export const NAV_LINKS = [
     },
     {
       title: 'Our Community',
-      links: ['Climbing xixixi', 'Hiking hilink', 'Hilink kinthill'],
+      links: ['Climbing', 'Hiking', 'Hilink'],
     },
   ];
   
   export const FOOTER_CONTACT_INFO = {
     title: 'Contact Us',
     links: [
-      { label: 'Admin Officer', value: '123-456-7890' },
-      { label: 'Email Officer', value: 'hilink@akinthil.com' },
+      { label: 'Admin Officer', value: '+61 123456789' },
+      { label: 'Email Officer', value: 'example@contact.com' },
     ],
   };
   
